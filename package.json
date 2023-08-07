@@ -1,0 +1,19 @@
+{
+  "name": "wikipedia-food",
+  "version": "1.0.0",
+  "description": "Mapping of Wikipedia food articles by country.",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rmemmer/wikipedia-food.git"
+  },
+  "author": "Robert Memmer",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rmemmer/wikipedia-food/issues"
+  },
+  "homepage": "https://github.com/rmemmer/wikipedia-food#readme"
+}
